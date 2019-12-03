@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{7408D7B1-0EBF-4C63-AB12-BEAD87473DFE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Online Electronic Store/packages.config">
+    <Files>
+      <File FileName="Online Electronic Store/Web.Debug.config" Line="1" Column="1" />
+      <File FileName="Online Electronic Store/packages.config" Line="5" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Online Electronic Store" expanded="True">
+            <Node name="Online Electronic Store" expanded="True">
+              <Node name="packages.config" selected="True" />
+              <Node name="Web.config" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Online_220Electronic_220Store PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
